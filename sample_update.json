@@ -1,0 +1,20 @@
+{
+    "books":[
+        {
+			"id":555555,
+			"title":"EL FUFU",
+			"price":4.0000,
+			"editorial":"",
+			"edition":"",
+			"publishDate":"0",
+			"creationDate":"20051203",
+			"modificationDate":"20051203",
+			"state":0,
+			"details":"Edit. Edhasa, 1ª edición febrero de 1988, 268 pag, 8º menor, guaflex.",
+			"properties":"",
+			"isbn":null,
+			"subjects":"Literatura Universal",
+			"authors":"WARNER, Rexou"
+		}
+    ]
+}
