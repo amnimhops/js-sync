@@ -36,7 +36,7 @@ if(process.argv.length < 5){
         })
     });
     // Send the compressed data with POST
-    client.post("https://test.mimolibros.com/api/books/synchronize",compressed,{
+    client.post(url,compressed,{
         timeout:5000,
         headers:{
             "X-Token":signature,
