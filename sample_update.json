@@ -1,5 +1,17 @@
 {
-    "books":[
+    "authors":[
+		{
+			"id":1,
+			"name":"WARNER, Rexou"
+		}
+	],
+	"subjects":[
+		{
+			"id":1,
+			"name":"Literatura Universal"
+		}
+	],
+	"books":[
         {
 			"id":555555,
 			"title":"EL FUFU",
